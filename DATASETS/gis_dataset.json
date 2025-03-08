@@ -1,0 +1,318 @@
+[
+  {
+    "instruction": "Provide historical background of the University of Antique.",
+    "input": "What is the historical background of the University of Antique?",
+    "output": "The University of Antique (UA) was founded in 1954 as the Antique School of Arts and Trades (ASAT), aimed at providing quality education in trade and technical courses. Over the years, it expanded both physically and academically, eventually becoming the University of Antique in 2009 through Republic Act 9746."
+  },
+  {
+    "instruction": "Provide the founding date of the University of Antique.",
+    "input": "When was the University of Antique founded?",
+    "output": "The University of Antique was founded on July 1, 1954, originally as the Antique School of Arts and Trades (ASAT)."
+  },
+  {
+    "instruction": "Provide details about the first courses offered by the University of Antique.",
+    "input": "What were the first courses offered by the University of Antique?",
+    "output": "The first courses offered by the University of Antique were Ceramics, Automechanics, Furniture and Cabinet Making, Building Construction, and Food Trades."
+  },
+  {
+    "instruction": "Provide information about the first president of the Polytechnic State College of Antique.",
+    "input": "Who was the first president of the Polytechnic State College of Antique?",
+    "output": "The first president of the Polytechnic State College of Antique (PSCA) was Dr. Godofredo E. Gallega."
+  },
+  {
+    "instruction": "Provide the mission of the University of Antique.",
+    "input": "What is the mission of the University of Antique?",
+    "output": "The mission of the University of Antique is to provide accessible, high-quality education to develop globally competitive graduates."
+  },
+  {
+    "instruction": "Provide details about the programs offered at the University of Antique.",
+    "input": "What programs are offered at the University of Antique?",
+    "output": "The University of Antique offers a wide range of programs, including undergraduate courses like BS Education, BS Marine Engineering, BS Business Administration, BS Criminology, AB Psychology, BS Computer Science, among others. Graduate programs include Doctor of Philosophy, Master of Education, and Master of Public Administration."
+  },
+  {
+    "instruction": "Provide location of the main campus of the University of Antique.",
+    "input": "Where is the main campus of the University of Antique located?",
+    "output": "The main campus of the University of Antique is located in Sibalom, Antique."
+  },
+  {
+    "instruction": "Provide the vision of the University of Antique.",
+    "input": "What is the vision of the University of Antique?",
+    "output": "The vision of the University of Antique is to be an institution of excellence, fostering innovation and intellectual growth."
+  },
+  {
+    "instruction": "Explain the significance of the University of Antique in the community.",
+    "input": "What is the significance of the University of Antique in the community?",
+    "output": "The University of Antique plays a crucial role in the development of the Province of Antique through education, research, and community service, contributing significantly to the province’s socio-economic progress."
+  },
+  {
+    "instruction": "Provide details about the major milestones in the history of the University of Antique.",
+    "input": "What are some major milestones in the history of the University of Antique?",
+    "output": "Some major milestones in the history of the University of Antique include the establishment of the first five-room nipa and bamboo classroom building in 1954, the introduction of the Bachelor of Science in Industrial Education in 1968, the launch of the Master of Arts in Food and Nutrition in 1978, and the conversion of PSCA into the University of Antique in 2009."
+  },
+  {
+    "instruction": "Provide admission requirements for freshmen students.",
+    "input": "What are the admission requirements for freshmen students?",
+    "output": "The admission requirements for incoming freshmen students include the following: an original copy of the High School Report Card/Form 138, a Certificate of Good Moral Character (original copy), a photocopy of the NSO/PSA authenticated birth certificate, Form 137 (to be requested by the UA Registrar from the previous school), a medical certificate* (the requirement is waived for certain programs), and the Admission Test Result."
+  },
+  {
+    "instruction": "Provide admission requirements for transferee students.",
+    "input": "What are the admission requirements for transferee students?",
+    "output": "Transferee students must submit the following: a photocopy of the Transcript of Records for evaluation, an original copy of the Honourable Dismissal/Transfer Credential, a Certificate of Good Moral Character (original copy), a photocopy of the NSO/PSA authenticated birth certificate, the Official Transcript of Record copy for UA (to be requested by UA Registrar from the former school), a medical certificate* (waived for certain programs), and the Admission Test Result."
+  },
+  {
+    "instruction": "Provide admission requirements for students shifting programs.",
+    "input": "What are the admission requirements for students shifting programs?",
+    "output": "Students shifting programs are required to submit the following: an Approved Program Shifting Application Form, the Admission Test Result (if required by the program), and a medical certificate* (waived for certain programs)."
+  },
+  {
+    "instruction": "Describe the whole enrollment process.",
+    "input": "What is the whole enrollment process?",
+    "output": "The enrollment process involves the following steps: Step 1: Registration, where students complete the Online Enrollment Registration. Step 2: Appraisal and Advising, which involves the appraisal and advising process. Step 3: Assessment and Fees, where the student's fees for enrollment are assessed. Step 4: Confirmation of Enrollment, which differs for new and old students: for old students, a personal copy of the Registration Form (RF) is sent to their antiquespride account, while new students receive the RF via their active email address. Step 5: Access to LMS, where students gain access to the Learning Management System (LMS) once enrolled."
+  },
+  {
+    "instruction": "Provide the vision of the Health Services at the University of Antique.",
+    "input": "What is the vision of the Health Services at the University of Antique?",
+    "output": "The vision of the Health Services at the University of Antique is to provide premium quality school health services for the UA System."
+  },
+  {
+    "instruction": "Provide the mission of the Health Services Office.",
+    "input": "What is the mission of the Health Services Office?",
+    "output": "The mission of the Health Services Office is to strengthen the University System by improving the quality of life through effective and efficient health services for all its constituents."
+  },
+  {
+    "instruction": "Describe the objectives of the Health Services Office.",
+    "input": "What are the objectives of the Health Services Office?",
+    "output": "The objectives of the Health Services Office are to promote health and wellness and prevent diseases within the University System. This is achieved through efficient planning, implementation, and monitoring of health activities and services."
+  },
+  {
+    "instruction": "Describe the Health Services Office.",
+    "input": "Tell me about the Health Services Office.",
+    "output": "The Health Services Unit is committed to providing free expert and accessible primary care to students, faculty, and staff of the University. They offer curative, preventive, and promotive care to ensure the holistic health of their clients. The clinics are staffed with school health experts who are equipped with the knowledge and skills necessary to provide quality services."
+  },
+  {
+    "instruction": "Describe the services provided by the Health Services.",
+    "input": "What services does the Health Services provide?",
+    "output": "The Health Services provide a variety of services including medical consultations, medical examinations, first-aid treatment, and medication. They also offer dental services such as consultation and tooth extraction. Additionally, the Health Services offer other programs such as health education, wellness programs, vaccination, and sanitation programs."
+  },
+  {
+    "instruction": "Provide the operating hours of the Health Services Office.",
+    "input": "What are the operating hours of the Health Services Office?",
+    "output": "The University Health Services is open from Mondays to Saturdays with the following schedules: During the regular semester, the operating hours are from Monday to Friday, 7:30 AM to 6:30 PM (no noon break), and on Saturday, 8:00 AM to 5:00 PM (no noon break). During the summer, the hours are Monday to Friday, from 8:00 AM to 5:00 PM (no noon break). Please note that the schedule of clinic hours is subject to change as the need arises. Any changes will be posted on the official Facebook Page and bulletin board. The clinic is closed on Sundays and Holidays."
+  },
+  {
+    "instruction": "Provide the location of the College of Industrial Technology.",
+    "input": "Where is the College of Industrial Technology located?",
+    "output": "The College of Industrial Technology building is located beside the Registrar's office. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the College of Teacher Education.",
+    "input": "Where is the College of Teacher Education located?",
+    "output": "The College of Teacher Education building is located near the center gate. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the College of Computer Studies.",
+    "input": "Where is the College of Computer Studies located?",
+    "output": "The College of Computer Studies building is located near gate 3. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the College of Marine Studies.",
+    "input": "Where is the College of Marine Studies located?",
+    "output": "The College of Marine Studies is located near the UA Oval. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the College of Engineering and Architecture.",
+    "input": "Where is the College of Engineering and Architecture located?",
+    "output": "The College of Engineering and Architecture is located near Gate 3. If you need assistance, you can approach the nearby personnel for directions."
+  },
+   {
+    "instruction": "Provide the location of the College of Criminal Justice and Education.",
+    "input": "Where is the College of Criminal Justice and Education located?",
+    "output": "The College of Criminal Justice and Education is located in front of Paghiusa Hall. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the College of Arts and Sciences.",
+    "input": "Where is the College of Arts and Sciences located?",
+    "output": "The College of Arts and Sciences is located near the new library building beside UA Oval. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the College of Business and Accountancy.",
+    "input": "Where is the College of Business and Accountancy located?",
+    "output": "The College of Business and Accountancy is located beside the CCS building. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the President's office.",
+    "input": "Where can I find the President's office?",
+    "output": "Hello! If you're looking for Sir Pablo S. Crespo, you can find him on the 2nd floor of the CIT Department Building beside the Registrar, specifically in the President's Office. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the Office of the Vice President for Administration and Finance.",
+    "input": "Where can I find the Office of the Vice President for Administration and Finance?",
+    "output": "Hello! If you're looking for Ma'am Nelly E. Mistio, you can find her in the VPPA office beside the eHub in front of the CIT building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the Office of the Vice President for Academic Affairs.",
+    "input": "Where can I find the Office of the Vice President for Academic Affairs?",
+    "output": "Hello! If you're looking for Ma'am Catherine C. Viesca, you can find her in the VPPA office beside the eHub in front of the CIT building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the Office of the Vice President for Research, Extension, and Innovation.",
+    "input": "Where can I find the Office of the Vice President for Research, Extension, and Innovation?",
+    "output": "Hello! If you're looking for Ma'am Jelyn O. Alentajan, you can find her in the VPPA office beside the eHub in front of the CIT building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the SAS Office.",
+    "input": "Where is the SAS Office located?",
+    "output": "The SAS office is located on the 2nd floor of the CTE Building, specifically in Room GEB 206. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the CAS Dean's Office.",
+    "input": "Where can I find the CAS Dean's Office?",
+    "output": "Hello! If you're looking for Dr. Cecilia O. Salvilla, you can find her in the CAS Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the CCS Dean's Office.",
+    "input": "Where can I find the CCS Dean's Office?",
+    "output": "Hello! If you're looking for Sir John C. Amar, you can find him on the 2nd floor of the CCS Department Building, specifically in Room 203. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the CIT Dean's Office.",
+    "input": "Where can I find the CIT Dean's Office?",
+    "output": "Hello! If you're looking for Sir Adrian F. Francisco, you can find him on the 1st floor of the CIT Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the CMS Dean's Office.",
+    "input": "Where can I find the CMS Dean's Office?",
+    "output": "Hello! If you're looking for Sir Luis V. Garfin, you can find him beside the CMS Department Building, specifically under the men's dorm. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the CTE Dean's Office.",
+    "input": "Where can I find the CTE Dean's Office?",
+    "output": "Hello! If you're looking for Ma'am Grace C. Pastolero, you can find her on the 1st floor of the CTE Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the CCJE Dean's Office.",
+    "input": "Where can I find the CCJE Dean's Office?",
+    "output": "Hello! If you're looking for Sir Elden John D. Aurelio, you can find him on the 2nd floor beside the stairs of the CCJE Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the CBA Dean's Office.",
+    "input": "Where can I find the CBA Dean's Office?",
+    "output": "Hello! If you're looking for Ma'am Loyalda T. Bolivar, you can find her on the 1st floor, left side of the CBA Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the CEA Dean's Office.",
+    "input": "Where can I find the CEA Dean's Office?",
+    "output": "Hello! If you're looking for Ma'am Christine C. Vegafria, you can find her on the 1st floor beside the stairs of the CEA Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the programs offered by CAS.",
+    "input": "What programs are offered by CAS?",
+    "output": "CAS offers the following programs: Bachelor of Arts in Psychology, Bachelor of Arts in Communication, Bachelor of Arts in English Language Studies, and Bachelor of Science in Community Development."
+  },
+  {
+    "instruction": "Provide the programs offered by CBA.",
+    "input": "What programs are offered by CBA?",
+    "output": "CBA offers the following programs: Bachelor of Science in Accountancy, Bachelor of Science in Management Accounting, Bachelor of Science in Hospitality Management, Bachelor of Science in Tourism Management, Bachelor of Science in Business Administration major in Marketing Management, Bachelor of Science in Office Administration, Bachelor of Science in Entrepreneurship, Bachelor of Science in Cooperatives Management, Bachelor of Science in Entrepreneurship - Special Class, and Bachelor of Science in Hospitality Management - Cruise Ship Management."
+  },
+  {
+    "instruction": "Provide the programs offered by CIT.",
+    "input": "What programs are offered by CIT?",
+    "output": "CIT offers the following programs: Bachelor in Industrial Technology – Automotive Technology, Bachelor in Industrial Technology – Electrical Technology, Bachelor in Industrial Technology – Electronics Technology, Bachelor in Industrial Technology – Fashion Design and Apparel Technology, Bachelor in Industrial Technology – Food Service Technology, Bachelor in Industrial Technology – Heating, Ventilating, Air Conditioning and Refrigeration Technology, Bachelor in Industrial Technology – Drafting Technology, Bachelor in Industrial Technology – Civil and Construction Technology, TESDA Leverage Program Electricity, Diploma in Bamboo Technology, and Diploma in Ceramics Technology."
+  },
+  {
+    "instruction": "Provide the programs offered under Online Learning.",
+    "input": "What programs are offered under Online Learning?",
+    "output": "Online Learning offers the Bachelor of Science in Entrepreneurship under Open Learning Delivery."
+  },
+  {
+    "instruction": "Provide the programs offered by CCJE.",
+    "input": "What programs are offered by CCJE?",
+    "output": "CCJE offers the following programs: Bachelor of Science in Criminology and Bachelor of Science in Industrial Security Management."
+  },
+  {
+    "instruction": "Provide the programs offered by CCS.",
+    "input": "What programs are offered by CCS?",
+    "output": "CCS offers the following programs: Bachelor of Science in Computer Science, Bachelor in Library and Information Science, and Bachelor of Science in Information Technology."
+  },
+  {
+    "instruction": "Provide the programs offered by CTE.",
+    "input": "What programs are offered by CTE?",
+    "output": "CTE offers a variety of programs including Bachelor of Elementary Education, Bachelor in Early Childhood Education, Bachelor of Physical Education, Bachelor of Secondary Education – English, Filipino, Science, Social Science, and Mathematics, Bachelor of Special Needs Education – Generalist, and various Bachelor of Technical-Vocational Teacher Education programs such as Automotive Technology, Electrical Technology, Electronics Technology, Food and Service Management, Garments and Fashion Design, Heating, Ventilating, Air-Conditioning and Refrigeration Technology, Drafting Technology, and Construction and Civil Technology."
+  },
+  {
+    "instruction": "Provide the programs offered by CEA.",
+    "input": "What programs are offered by CEA?",
+    "output": "CEA offers the following programs: Bachelor of Science in Civil Engineering, Bachelor of Science in Mechanical Engineering, Bachelor of Science in Electrical Engineering, Bachelor of Science in Computer Engineering, Bachelor of Science in Architecture, and Bachelor of Science in Electronics Engineering."
+  },
+  {
+    "instruction": "Provide the programs offered by CMS.",
+    "input": "What programs are offered by CMS?",
+    "output": "CMS offers the following programs: Bachelor of Science in Marine Engineering and Bachelor of Science in Marine Transportation."
+  },
+  {
+    "instruction": "Provide the programs offered by CBA Graduate Studies.",
+    "input": "What programs are offered by CBA Graduate Studies?",
+    "output": "CBA Graduate Studies offers the following programs: Master of Business Administration, Master of Public Administration, and Doctor of Public Administration."
+  },
+  {
+    "instruction": "Provide the programs offered by CTE Graduate Studies.",
+    "input": "What programs are offered by CTE Graduate Studies?",
+    "output": "CTE Graduate Studies offers the following programs: Certificate in Teaching, Diploma in Early Childhood Education, Master in Education - Curriculum and Instruction, Master in Education - Educational Management, Master of Arts in Education - Filipino, Master of Arts in Education - Social Studies, Master of Arts in Education - Science, Master of Arts in Education - Mathematics, and Doctor of Philosophy - Educational Management."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Arts and Sciences.",
+    "input": "What programs are offered by the College of Arts and Sciences?",
+    "output": "The College of Arts and Sciences offers the following programs: Bachelor of Arts in Psychology, Bachelor of Arts in Communication, Bachelor of Arts in English Language Studies, and Bachelor of Science in Community Development."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Business and Accountancy.",
+    "input": "What programs are offered by the College of Business and Accountancy?",
+    "output": "The College of Business and Accountancy offers the following programs: Bachelor of Science in Accountancy, Bachelor of Science in Management Accounting, Bachelor of Science in Hospitality Management, Bachelor of Science in Tourism Management, Bachelor of Science in Business Administration major in Marketing Management, Bachelor of Science in Office Administration, Bachelor of Science in Entrepreneurship, Bachelor of Science in Cooperatives Management, Bachelor of Science in Entrepreneurship - Special Class, and Bachelor of Science in Hospitality Management - Cruise Ship Management."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Industrial Technology.",
+    "input": "What programs are offered by the College of Industrial Technology?",
+    "output": "The College of Industrial Technology offers the following programs: Bachelor in Industrial Technology – Automotive Technology, Bachelor in Industrial Technology – Electrical Technology, Bachelor in Industrial Technology – Electronics Technology, Bachelor in Industrial Technology – Fashion Design and Apparel Technology, Bachelor in Industrial Technology – Food Service Technology, Bachelor in Industrial Technology – Heating, Ventilating, Air Conditioning and Refrigeration Technology, Bachelor in Industrial Technology – Drafting Technology, Bachelor in Industrial Technology – Civil and Construction Technology, TESDA Leverage Program Electricity, Diploma in Bamboo Technology, and Diploma in Ceramics Technology."
+  },
+  {
+    "instruction": "Provide the programs offered under Online Learning.",
+    "input": "What programs are offered under Online Learning?",
+    "output": "Online Learning offers the Bachelor of Science in Entrepreneurship under Open Learning Delivery."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Criminal Justice and Education.",
+    "input": "What programs are offered by the College of Criminal Justice and Education?",
+    "output": "The College of Criminal Justice and Education offers the following programs: Bachelor of Science in Criminology and Bachelor of Science in Industrial Security Management."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Computer Studies.",
+    "input": "What programs are offered by the College of Computer Studies?",
+    "output": "The College of Computer Studies offers the following programs: Bachelor of Science in Computer Science, Bachelor in Library and Information Science, and Bachelor of Science in Information Technology."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Teacher Education.",
+    "input": "What programs are offered by the College of Teacher Education?",
+    "output": "The College of Teacher Education offers a variety of programs including Bachelor of Elementary Education, Bachelor in Early Childhood Education, Bachelor of Physical Education, Bachelor of Secondary Education – English, Filipino, Science, Social Science, and Mathematics, Bachelor of Special Needs Education – Generalist, and various Bachelor of Technical-Vocational Teacher Education programs such as Automotive Technology, Electrical Technology, Electronics Technology, Food and Service Management, Garments and Fashion Design, Heating, Ventilating, Air-Conditioning and Refrigeration Technology, Drafting Technology, and Construction and Civil Technology."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Engineering and Architecture.",
+    "input": "What programs are offered by the College of Engineering and Architecture?",
+    "output": "The College of Engineering and Architecture offers the following programs: Bachelor of Science in Civil Engineering, Bachelor of Science in Mechanical Engineering, Bachelor of Science in Electrical Engineering, Bachelor of Science in Computer Engineering, Bachelor of Science in Architecture, and Bachelor of Science in Electronics Engineering."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Maritime Studies.",
+    "input": "What programs are offered by the College of Maritime Studies?",
+    "output": "The College of Maritime Studies offers the following programs: Bachelor of Science in Marine Engineering and Bachelor of Science in Marine Transportation."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Business and Accountancy Graduate Studies.",
+    "input": "What programs are offered by the College of Business and Accountancy Graduate Studies?",
+    "output": "The College of Business and Accountancy Graduate Studies offers the following programs: Master of Business Administration, Master of Public Administration, and Doctor of Public Administration."
+  },
+  {
+    "instruction": "Provide the programs offered by the College of Education - Graduate Studies.",
+    "input": "What programs are offered by the College of Education - Graduate Studies?",
+    "output": "The College of Education - Graduate Studies offers the following programs: Certificate in Teaching, Diploma in Early Childhood Education, Master in Education - Curriculum and Instruction, Master in Education - Educational Management, Master of Arts in Education - Filipino, Master of Arts in Education - Social Studies, Master of Arts in Education - Science, Master of Arts in Education - Mathematics, and Doctor of Philosophy - Educational Management."
+  }
+]
+

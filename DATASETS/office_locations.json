@@ -1,0 +1,236 @@
+[
+    {
+      "instruction": "Provide the location of the Administrative Division Office.",
+      "input": "Where is the Administrative Division Office located?",
+      "output": "The Administrative Division Office is located on the 2nd floor of the Administration building. If you need assistance, you can approach the nearby personnel for directions."
+    },
+    {
+      "instruction": "Provide the location of the Alumni Unit.",
+      "input": "Where is the Alumni Unit located?",
+      "output": "The Alumni Unit is located in the CTE building. If you need assistance, you can approach the nearby personnel for directions."
+    },
+    {
+      "instruction": "Provide the location of the Admission/Registrarship Unit.",
+      "input": "Where is the Admission/Registrarship Unit located?",
+      "output": "The Admission/Registrarship Unit is located on the 1st floor of the Administration building. If you need assistance, you can approach the nearby personnel for directions."
+    },
+    {
+      "instruction": "Provide the location of the Accounting Unit.",
+      "input": "Where is the Accounting Unit located?",
+      "output": "The Accounting Unit is located on the 2nd floor of the Administration building. If you need assistance, you can approach the nearby personnel for directions."
+    },
+    {
+      "instruction": "Provide the location of the Budget Unit.",
+      "input": "Where is the Budget Unit located?",
+      "output": "The Budget Unit is located on the 2nd floor of the Administration building. If you need assistance, you can approach the nearby personnel for directions."
+    },
+    {
+      "instruction": "Provide the location of the College of Arts and Sciences.",
+      "input": "Where is the College of Arts and Sciences located?",
+      "output": "The College of Arts and Sciences is located in the CAS Department Building. The Dean, Ma’am Cecilia O. Salvilla, can be found on the 1st floor. If you need assistance, you might want to check with the department office nearby."
+    },
+    {
+      "instruction": "Provide the location of the College of Business and Accountancy.",
+      "input": "Where is the College of Business and Accountancy located?",
+      "output": "The College of Business and Accountancy is located in the CBA Department Building. The Dean, Ma’am Loyalda T. Bolivar, can be found on the 1st floor left side of the building. If you need assistance, you might want to check with the department office nearby."
+    },
+    {
+      "instruction": "Provide the location of the College of Computer Studies.",
+      "input": "Where is the College of Computer Studies located?",
+      "output": "The College of Computer Studies is located in the CCS Department Building. The Dean, Sir John C. Amar, can be found on the 2nd floor in Room 203. If you need assistance, you might want to check with the department office nearby."
+    },
+    {
+      "instruction": "Provide the location of the College of Engineering and Architecture.",
+      "input": "Where is the College of Engineering and Architecture located?",
+      "output": "The College of Engineering and Architecture is located in the CEA Department Building. The Dean, Ma’am Christine C. Vegafria, can be found on the 1st floor beside the stairs. If you need assistance, you might want to check with the department office nearby."
+    },
+    {
+      "instruction": "Provide the location of the College of Teacher Education.",
+      "input": "Where is the College of Teacher Education located?",
+      "output": "The College of Teacher Education is located in the CTE Department Building. The Dean, Ma’am Grace C. Pastolero, can be found on the 1st floor. If you need assistance, you might want to check with the department office nearby."
+    },
+  {
+    "instruction": "Provide the location of the College of Business and Accountancy.",
+    "input": "Where is the College of Business and Accountancy located?",
+    "output": "Hello! If you're looking for Ma'am Loyalda T. Bolivar, you can find her on the 1st floor left side of the CBA Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the College of Teacher Education.",
+    "input": "Where is the College of Teacher Education located?",
+    "output": "Hello! If you're looking for Ma'am Van Helen S. Cuaderes, you can find her on the 1st floor of the CTE Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the General Services Unit.",
+    "input": "Where is the General Services Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Guidance Unit.",
+    "input": "Where is the Guidance Unit located?",
+    "output": "The Guidance Unit is located in the CTE building. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Human Resource Unit.",
+    "input": "Where is the Human Resource Unit located?",
+    "output": "The Human Resource Unit is located on the 1st floor of the CIT Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the Health Unit.",
+    "input": "Where is the Health Unit located?",
+    "output": "The Health Unit is located on the 1st floor of the Administration building. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the International Affairs Unit.",
+    "input": "Where is the International Affairs Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Internal Audit Unit.",
+    "input": "Where is the Internal Audit Unit located?",
+    "output": "Hello! If you're looking for Sir Alwin B. Piansay, you can find him on the 2nd floor of the PaghiUsA Hall. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the Information and Communications Technology Unit.",
+    "input": "Where is the Information and Communications Technology Unit located?",
+    "output": "The ICTU is located on the 3rd floor of the CIT Department Building. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the Instructional Materials Development Unit.",
+    "input": "Where is the Instructional Materials Development Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Innovation Promotion Unit.",
+    "input": "Where is the Innovation Promotion Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Integrated Research Centers.",
+    "input": "Where are the Integrated Research Centers located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Information Unit.",
+    "input": "Where is the Information Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Libertad Extension Campus.",
+    "input": "Where is the Libertad Extension Campus located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Legal Unit.",
+    "input": "Where is the Legal Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Laboratory High School.",
+    "input": "Where is the Laboratory High School located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Laboratory Management Unit.",
+    "input": "Where is the Laboratory Management Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the National Service Training Program Unit.",
+    "input": "Where is the National Service Training Program Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Office of the Board Secretary.",
+    "input": "Where is the Office of the Board Secretary located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Office of the University President.",
+    "input": "Where is the Office of the University President located?",
+    "output": "Hello! If you're looking for Sir Pablo S. Crespo, you can find him on the 2nd floor of the CIT Department Building beside the Registrar, specifically in the President's Office. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the Planning Unit.",
+    "input": "Where is the Planning Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Project Management Unit.",
+    "input": "Where is the Project Management Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Procurement Unit.",
+    "input": "Where is the Procurement Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Quality Management Office.",
+    "input": "Where is the Quality Management Office located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Quality Assurance Unit.",
+    "input": "Where is the Quality Assurance Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Resiliency and Future Thinking Unit.",
+    "input": "Where is the Resiliency and Future Thinking Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Records Unit.",
+    "input": "Where is the Records Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Resource Management Office.",
+    "input": "Where is the Resource Management Office located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Research Unit.",
+    "input": "Where is the Research Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Student Affairs Division.",
+    "input": "Where is the Student Affairs Division located?",
+    "output": "The SAS office is located in the CTE building. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Student Discipline Unit.",
+    "input": "Where is the Student Discipline Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Scholarship and Financial Assistance Unit.",
+    "input": "Where is the Scholarship and Financial Assistance Unit located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of The PRISM Publication.",
+    "input": "Where is The PRISM Publication located?",
+    "output": "The PRISM Publication is located in the CTE building. If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the University Library.",
+    "input": "Where is the University Library located?",
+    "output": "If you need assistance, you can approach the nearby personnel for directions."
+  },
+  {
+    "instruction": "Provide the location of the Office of the UA Student Government.",
+    "input": "Where is the Office of the UA Student Government located?",
+    "output": "The Office of UA Student Government is located beside the consumer store and the office of FLP. If you need assistance, you might want to check with the department office nearby."
+  },
+  {
+    "instruction": "Provide the location of the Academic Affairs Office.",
+    "input": "Where is the Academic Affairs Office located?",
+    "output": "Hello! If you're looking for Ma'am Catherine C. Viesca, you can find her in the VPAA office beside the eHub in front of the CIT building. If you need assistance, you might want to check with the department office nearby."
+  }
+]
+
+
+  
+  
